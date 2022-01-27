@@ -5,7 +5,6 @@ package myquote
 import "rsc.io/quote"
 
 func MyGlass() string {
-	myGlass := quote.Glass()
 	return quote.Glass()
 }
 func MyGo() string {
