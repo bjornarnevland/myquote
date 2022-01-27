@@ -1,6 +1,6 @@
 package main 
 
-import (
+import ("github.com/bjornarnevland/myquote/tree/master/Myquote.go"
 
 
 "fmt")
