@@ -1,12 +1,18 @@
 package main 
 
-import ("github.com/bjornarnevland/myquote/tree/master/Myquote.go"
+import (
+
+	"fmt"
+
+	"github.com/bjornarnevland/myquote/Myquote.go"
 
 
-"fmt")
+
+
+)
 
 
 func main() {
 
-fmt. Println(MyGlass)
+	fmt.Println(myquote.MyGlass())
 }
